@@ -1,3 +1,5 @@
+git push -u main master
+
 Dados do Estado do Rio de Janeiro: http://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?covid19/esus_sivep.def
 
 Base de Datos COVID-19 (Brasil): https://covid.saude.gov.br/ e https://brasil.io/dataset/covid19/caso_full/
