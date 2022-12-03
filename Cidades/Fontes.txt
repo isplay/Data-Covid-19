@@ -1,0 +1,39 @@
+Dados do Estado do Rio de Janeiro: http://sistemas.saude.rj.gov.br/tabnetbd/dhx.exe?covid19/esus_sivep.def
+
+Base de Datos COVID-19 (Brasil): https://covid.saude.gov.br/ e https://brasil.io/dataset/covid19/caso_full/
+
+IDH de cidades ao redor do mundo: https://globaldatalab.org/shdi/shdi/?levels=1%2B4&interpolation=1&extrapolation=0&nearest_real=0
+
+COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University: https://github.com/CSSEGISandData/COVID-19
+
+Base de Datos COVID-19 (Chile): https://www.minciencia.gob.cl/covid19/ e https://github.com/MinCiencia/Datos-COVID19
+
+Base de Datos COVID-19 (USA): https://usafacts.org/visualizations/coronavirus-covid-19-spread-map
+
+Casos confirmados em Buenos Aires - Argentina: https://data.buenosaires.gob.ar/dataset/casos-covid-19
+
+Casos confirmados em Tokyo - Japão: https://catalog.data.metro.tokyo.lg.jp/dataset/t000010d0000000068 e https://covid19.mhlw.go.jp/en/
+
+França: https://data.education.gouv.fr/explore/dataset/fr-en-situation_nationale_covid/export/?sort=date e https://www.data.gouv.fr/fr/datasets/synthese-des-indicateurs-de-suivi-de-lepidemie-covid-19/
+
+Espanha: https://datos.comunidad.madrid/catalogo/dataset/covid19_tia_muni_y_distritos
+
+Riad Arabia Saudita: https://datasource.kapsarc.org/pages/home/
+
+Cidades da Coréia do Sul: https://ncov.kdca.go.kr/
+Seoul: https://www.seoul.go.kr/coronaV/coronaStatus.do
+NYC: https://www.nyc.gov/site/doh/covid/covid-19-data.page
+London: https://data.london.gov.uk/topic/covid-19
+Paris: https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19
+Beijing: https://data.humdata.org/
+Tokyo: https://stopcovid19.metro.tokyo.lg.jp/en/
+Jakarta: https://corona.jakarta.go.id/en
+Manila: https://ncovtracker.doh.gov.ph/
+Delhi: http://health.delhigovt.nic.in/wps/wcm/connect/doit_health/Health/Home/Covid19/Bulletin+September+2020
+COVID_CITY: https://sites.google.com/view/snuaric/data/covid-19-data/covid-19-data?authuser=0#h.olwye2ko6jgs
+Endereços de sites dos países: https://github.com/owid/covid-19-data/blob/master/public/data/testing/covid-testing-latest-data-source-details.csv
+
+Münster: https://www.govdata.de/web/guest/suchen/-/details/coronavirus-infektionen-sars-cov-2-im-regierungsbezirk-munster
+
+
+
